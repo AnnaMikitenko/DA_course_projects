@@ -8,4 +8,4 @@ There are training projects that i have prepared during my learning in DA course
 
 **Project 3.** Solution for complex business problem - recommendation table for courses (Python)
 
-**Project 4.** Analysis of business model: determination of product and marketing metrics, evaluation whether it is cost-effective to scale this business and open a store in a new region.
+**Project 4.** Analysis of business model: determination of product and marketing metrics, evaluation whether it is cost-effective to scale this business and open a store in a new region (Google Sheets) https://docs.google.com/spreadsheets/d/1aTKdjwV3TqvVX23V8JqcIcHJ09cWgGeJo2rPjKjkyak/edit?usp=sharing 
