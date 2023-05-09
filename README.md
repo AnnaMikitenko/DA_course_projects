@@ -7,3 +7,5 @@ There are training projects that i have prepared during my learning in DA course
 **Project 2.** Analysis of funnel for mobile game (Python)
 
 **Project 3.** Solution for complex business problem - recommendation table for courses (Python)
+
+**Project 4.** Analysis of business model: determination of product and marketing metrics, evaluation whether it is cost-effective to scale this business and open a store in a new region.
